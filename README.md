@@ -1,3 +1,22 @@
+
+
+
+
+
+
+## ライセンス
+
+The MIT License (MIT)
+
+### 使用ツール
+[railstutorial.jp_starter_kit](https://github.com/yasslab/railstutorial.jp_starter_kit "railstutorial.jp_starter_kit")
+
+> The MIT License (MIT)
+> Copyright &copy; 2015-2017 [YassLab](https://yasslab.jp)
+
+---
+
+# 以下ツール導入の原文
 # Railsチュートリアル スターターキット
 
 本ツールは、仮想環境 (VirtualBox + Vagrant) を使って[Railsチュートリアル](https://railstutorial.jp)の環境構築をするためのものです。Railsの環境構築にお困りの場合は試してみてください :)
@@ -106,11 +125,3 @@ https://yasslab.jp/
 - [Rails 解説動画](https://railstutorial.jp/#screencast)
 - [Rails ガイド](https://railsguides.jp)
 
-
-## ライセンス
-
-The MIT License (MIT)
-
-Copyright &copy; 2015-2017 [YassLab](https://yasslab.jp)
-
-![YassLab Logo](https://yasslab.jp/img/logo_800x200.png)
